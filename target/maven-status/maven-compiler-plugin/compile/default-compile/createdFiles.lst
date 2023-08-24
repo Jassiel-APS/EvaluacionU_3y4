@@ -1,0 +1,14 @@
+mx\edu\utez\secondapp\utils\RequestFilter.class
+mx\edu\utez\secondapp\models\role\Role.class
+mx\edu\utez\secondapp\utils\MySQLConnection.class
+mx\edu\utez\secondapp\models\pokemon\Pokemon.class
+mx\edu\utez\secondapp\models\user\Person.class
+mx\edu\utez\secondapp\controllers\user\ServletUser.class
+mx\edu\utez\secondapp\utils\EmailService$1.class
+mx\edu\utez\secondapp\utils\EmailService.class
+mx\edu\utez\secondapp\models\user\User.class
+mx\edu\utez\secondapp\controllers\pokemon\ServletFiles.class
+mx\edu\utez\secondapp\models\pokemon\DaoPokemon.class
+mx\edu\utez\secondapp\controllers\pokemon\ServletPokemon.class
+mx\edu\utez\secondapp\models\user\DaoUser.class
+mx\edu\utez\secondapp\models\pokemon\PokemonType.class
