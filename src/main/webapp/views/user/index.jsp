@@ -1,4 +1,4 @@
-<%--
+
   Created by IntelliJ IDEA.
   User: Equipo MSI
   Date: 7/25/2023
